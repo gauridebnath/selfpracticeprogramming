@@ -12,8 +12,9 @@ public class Student {
         this.id = id;
         this.name = name;
         this.address = address;
-        System.out.println("my name is gauri");
+
         System.out.println("new branch");
+        System.out.println("now ui2");
     }
 
     public int getId() {
